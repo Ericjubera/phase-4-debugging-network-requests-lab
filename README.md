@@ -62,12 +62,12 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: i saw that it said toys but it needs to  be toy 
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged:i saw that we wrent passing it to json 
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged:there wasnt no destroy route 
